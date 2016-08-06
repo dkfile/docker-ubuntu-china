@@ -1,1 +1,1 @@
-docker build -t 'lucien/ubuntu-china' .
+docker build -t 'lucienhua/ubuntu-china' .
